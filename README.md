@@ -3,6 +3,8 @@ This assignment will incentivize you to get familiar with the different GitHub w
 - integrating/merging pull requests and
 - establishing traceability between commits, tasks and pull requests
 
+- commit 2 commit 3
+
 ## Step 1 - Create a New Repository
 Using your personal GitHub account [create a public, empty GitHub repository](https://github.com/new) called `CS471WorkflowsHomeworkAssignment`.
 
@@ -122,3 +124,6 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
 
 ## Step 7 - Canvas
 Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) assignment.
+
+
+commit 1
