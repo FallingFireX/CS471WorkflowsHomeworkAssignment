@@ -120,6 +120,12 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
 
   ---
 
+  edit for commit 1
+
+  content for commit 2
+
+  content for commit 3
+
 </details>
 
 ## Step 7 - Canvas
